@@ -1,5 +1,32 @@
 # DeveloperHubInternshipP-2
+This repository contains multiple end-to-end Data Science and Machine Learning projects, covering **Unsupervised Learning, Business Intelligence, and Supervised Classification** problems.
 
+---
+
+#  Mall Customer Segmentation
+
+##  Aim
+- To segment mall customers based on purchasing behavior and demographic features.
+- This is an **Unsupervised Learning** problem using clustering techniques.
+
+##  Project Highlights
+- Dataset exploration and preprocessing
+- Exploratory Data Analysis (EDA)
+- Feature engineering
+- K-Means Clustering algorithm
+- Optimal cluster selection (Elbow Method / Silhouette Score)
+- PCA / t-SNE for dimensionality reduction
+- Customer segmentation visualization
+- Marketing strategy recommendations
+
+##  Skills Gained
+- Unsupervised Learning
+- Customer Segmentation
+- Clustering Algorithms
+- Data Visualization
+- Business Insight Generation
+
+---
 #  Global Superstore Sales Analysis Dashboard
 
 ##  Overview
